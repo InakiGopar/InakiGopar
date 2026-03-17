@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am Iñaki Gopar</h1>
-<h2 align="center">Software Developer · Problem Solver · Java / Kotlin</h2>
+<h2 align="center">Software Developer </h2>
 
 <p align="center">
-  <img width="1456" height="720" alt="banner-prog" src="https://github.com/user-attachments/assets/b2fe8915-a2c5-4207-8c7e-78073d6bfc1d" />
+  <img width="700" height="600" alt="gitHub-presentation-image" src="https://github.com/user-attachments/assets/9a8b13d5-5ed2-42d1-b1c1-381c050614a4" />
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
